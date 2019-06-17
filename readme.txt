@@ -3,4 +3,4 @@ git is free software distributed under the GPl.
 git has a mutable index called stage.
 git has s stage.
 git git 
-git tracks changes.
+git tracks changes of files.
