@@ -15,6 +15,6 @@ new branch
 add merge
 quick simple
 
-and simple
+simple and simple
 
 new branch is quick
