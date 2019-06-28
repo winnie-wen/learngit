@@ -5,18 +5,16 @@ git has s stage.
 git git git git gitlab 
 git tracks changes of files.
 git git git git gitlab gitlab gitlab 
-gitlab git
-
 qwo d  o
 simple
-
 qwo de
 new branch
 add merge
 quick simple
-
+quick simpl
+add neirong
 and simple
-
 new branch is quick
-
 add merge
+ddddddddddd
+d merge
