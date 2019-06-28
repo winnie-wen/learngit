@@ -18,5 +18,5 @@ quick simple
 simple and simple
 
 new branch is quick
-
-add merge
+Git is a free software 
+t is a free software add merge
